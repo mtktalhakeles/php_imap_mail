@@ -16,8 +16,8 @@
 	<div id="dataDivID" class="form-container">
 		<?php
 			$host = '{outlook.office365.com:993/ssl}INBOX'; //Your host
-			$user = 'deneme.yakisikli@outlook.com';//Your mail
-			$password = 'sifre123A';//Your password
+			$user = 'asdasdasd@outlook.com';//Your mail
+			$password = 'xxxxx';//Your password
 
 			
 			$conn = imap_open($host, $user, $password)
